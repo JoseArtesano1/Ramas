@@ -16,6 +16,11 @@ public class Ramas {
      */
     public static void main(String[] args) {
       
+        System.out.println("version 1.0");
+       System.out.println("estoy haciendo cambios"); 
+       int a =20;
+        System.out.println(a); 
+        System.out.println("ultimo cambio");
         System.out.println("version 2.0");
     }
     
